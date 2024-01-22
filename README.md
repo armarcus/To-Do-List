@@ -1,2 +1,2 @@
-# To-Do-List
-Organizes to-dos in a list and allows user to complete multiple functions with the list. 
+#Candy Shopping List
+Organizes candies in a list and allows user to complete multiple functions to change the list. 
